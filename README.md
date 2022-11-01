@@ -14,7 +14,7 @@
 
 ## **Description**
 
-The ZW-ORM-ECOMMERCE program is a server-side program that allows a user to Get, Post, Create, Update, and Delete Categories, Products, and Product Tags. The functioning program is a an example of how the back-end of an e-commerce site would operate.
+The ZW-ORM-ECOMMERCE program is a server-side program that allows a user to Get, Get by Id, Create, Update, and Delete Categories, Products, and Product Tags. The functioning program is a an example of how the back-end of an e-commerce site would operate.
 
 ## **Installation**
 
