@@ -35,9 +35,23 @@ To install this program, clone this repository to your local machine and open it
 
 * Enter command "node server.js" to start your server.
 
-* See the operational walk-through video below and make sure to maximize the video for best resolution.
+* See the link to the  operational walk-through video below and make sure to maximize the video for best resolution.
 
-![Video of program Set-Up](./assets/ZW-ORM-ECOMMERCE%20OPERATIONAL%20SETUP.mp4)
+[Link to set up Walk-through](https://youtu.be/wORK2VeZNus)
+
+* The following tests are done through Insomnia, an API-Routing software that we are using for this course.
+
+* See the link to the walk-though video below demonstrating how to GET, GET by ID, POST, UPDATE, and DELETE Product Tags. Watch in Full Screen for best resolution.
+
+[Link to walk-through of Tag routes in Insomnia](https://youtu.be/x9txMTLON5s)
+
+* See the link to the walk-through video below demonstrating how to GET, GET by Id, POST, UPDATE, and DELETE Products. Watch in Full Screen for best resolution.
+
+[Link to walk-through of Product routes in Insomnia](https://youtu.be/zDRrWs8cWNw)
+
+* See the link to the walk-through video below demonstrating how to GET, GET by Id, POST, UPDATE, and DELETE Categories. Watch in Full Screen for best resolution.
+
+[Link to walk-through of Category routes in Insomnia](https://youtu.be/TtzoNxl6haA)
 
 
 ## **Technologies**
@@ -47,6 +61,7 @@ To install this program, clone this repository to your local machine and open it
 * [NPM](https://www.npmjs.com/) 
 * [MySQL](https://dev.mysql.com/doc/) 
 * [Sequelize](https://www.npmjs.com/package/sequelize) 
+* [Insomnia](https://insomnia.rest/)
 
 ## **Questions**
 
