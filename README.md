@@ -27,7 +27,7 @@ To install this program, clone this repository to your local machine and open it
 
 * Make sure to update the .env file with your MySQL username and your password.
 
-* Open the terminal of your code editor in the db folder on your schema.sql file and log into MySQL with command "-u root -p" and then enter your password. 
+* Open the terminal of your code editor in the db folder on your schema.sql file and log into MySQL with command "mysql -u root -p" and then enter your password. 
 
 * Run command "source schema.sql" and once this has run enter "quit" to quit the MySQL program. 
 
@@ -36,6 +36,9 @@ To install this program, clone this repository to your local machine and open it
 * Enter command "node server.js" to start your server.
 
 * See the operational walk-through video below and make sure to maximize the video for best resolution.
+
+![Video of program Set-Up](./assets/ZW-ORM-ECOMMERCE%20OPERATIONAL%20SETUP.mp4)
+
 
 ## **Technologies**
 
